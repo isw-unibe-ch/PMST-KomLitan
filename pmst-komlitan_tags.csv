@@ -1,0 +1,7 @@
+tag_id,tag_column_name,comment,language_id
+fusion,analysis_tag,form exhibits fusion (morphophonology) in (at least) one of the morphemes,komlitan
+certain_fut,paradigm_tag,form is part of the certain future paradigm,komlitan
+dialect_var,variants_tag,form is from other dialect,komlitan
+formal,variants_tag,form is used in formal contexts,komlitan
+informal,variants_tag,form is informal/colloquial,komlitan
+unspecified,variants_tag,form is not used in special contexts,komlitan

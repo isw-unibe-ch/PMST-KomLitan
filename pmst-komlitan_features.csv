@@ -1,0 +1,12 @@
+value_id,label,feature,unimorph,language_id
+excl,exclusive,clusivity,EXCL,komlitan
+incl,inclusive,clusivity,INCL,komlitan
+pl,plural,number,PL,komlitan
+sg,singular,number,SG,komlitan
+1,first person,person,1,komlitan
+2,second person,person,2,komlitan
+3,third person,person,3,komlitan
+aff,affirmative,polarity,POS,komlitan
+neg,negative,polarity,NEG,komlitan
+fut,future,tense_aspect,FUT,komlitan
+nfut,non-future,tense_aspect,,komlitan

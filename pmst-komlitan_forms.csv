@@ -1,0 +1,209 @@
+form_id,lexeme,cell,source_form,orth_form,analysed_orth_form,phon_form,analysed_phon_form,variants_tag,analysis_tag,paradigm_tag,source,page,language_id
+komlitan001,no_stem,1.sg,kei,kei,kei,k ei,k ei,unspecified,,,Kanshouwa2026Litan,nopage,komlitan
+komlitan002,no_stem,1.pl.excl,keini,keini,kei+ni,k ei n i,k ei + n i,unspecified,,,Kanshouwa2026Litan,nopage,komlitan
+komlitan003,no_stem,1.pl.incl,eini,eini,ei+ni,ei n i,ei + n i,unspecified,,,Kanshouwa2026Litan,nopage,komlitan
+komlitan004,no_stem,2.sg,nang,nang,nang,n a ŋ,n a ŋ,unspecified,,,Kanshouwa2026Litan,nopage,komlitan
+komlitan005,no_stem,2.pl,nangni,nangni,nang+ni,n a ŋ n i,n a ŋ + n i,unspecified,,,Kanshouwa2026Litan,nopage,komlitan
+komlitan006,no_stem,3.sg,ama,ama,a+ma,a m a,a + m a,unspecified,,,Kanshouwa2026Litan,nopage,komlitan
+komlitan007,no_stem,3.pl,anmani,anmani,a+n+ma+ni,a n m a n i,a + n + m a + n i,unspecified,,,Kanshouwa2026Litan,nopage,komlitan
+komlitan008,che,1.sg.fut.aff,ki-che-sik,ki-Σ-sik,ki+Σ+sik,k i Σ s i k,k i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan009,che,1.sg.fut.aff,ki-che-sik-ke,ki-Σ-sik-ke,ki+Σ+sik+ke,k i Σ s i k k e,k i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan010,che,1.pl.excl.fut.aff,kin-che-sik,kin-Σ-sik,ki+n+Σ+sik,k i n Σ s i k,k i + n + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan011,che,1.pl.excl.fut.aff,kin-che-sik-ke,kin-Σ-sik-ke,ki+n+Σ+sik+ke,k i n Σ s i k k e,k i + n + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan012,che,1.pl.incl.fut.aff,nin-che-sik,nin-Σ-sik,ni+n+Σ+sik,n i n Σ s i k,n i + n + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan013,che,1.pl.incl.fut.aff,nin-che-sik-ke,nin-Σ-sik-ke,ni+n+Σ+sik+ke,n i n Σ s i k k e,n i + n + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan014,mu,1.sg.2.sg.fut.aff,ki-ni-mu-sik,ki-ni-Σ-sik,ki+ni+Σ+sik,k i n i Σ s i k,k i + n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan015,mu,1.sg.2.sg.fut.aff,ki-ni-mu-sik-ke,ki-ni-Σ-sik-ke,ki+ni+Σ+sik+ke,k i n i Σ s i k k e,k i + n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan016,mu,1.sg.2.pl.fut.aff,ki-ni-mu-sik,ki-ni-Σ-sik,ki+ni+Σ+sik,k i n i Σ s i k,k i + n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan017,mu,1.sg.2.pl.fut.aff,ki-ni-mu-sik-ke,ki-ni-Σ-sik-ke,ki+ni+Σ+sik+ke,k i n i Σ s i k k e,k i + n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan018,mu,1.pl.excl.2.sg.fut.aff,kin-na-mu-sik,kin-na-Σ-sik,ki+n+na+Σ+sik,k i n n a Σ s i k,k i + n + n a + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan019,mu,1.pl.excl.2.sg.fut.aff,kin-na-mu-sik-ke,kin-na-Σ-sik-ke,ki+n+na+Σ+sik+ke,k i n n a Σ s i k k e,k i + n + n a + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan020,mu,1.pl.excl.2.pl.fut.aff,kin-ni-mu-sik,kin-ni-Σ-sik,ki+n+ni+Σ+sik,k i n n i Σ s i k,k i + n + n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan021,mu,1.pl.excl.2.pl.fut.aff,kin-ni-mu-sik-ke,kin-ni-Σ-sik-ke,ki+n+ni+Σ+sik+ke,k i n n i Σ s i k k e,k i + n + n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan022,mu,1.sg.3.sg.fut.aff,ki-mu-sik,ki-Σ-sik,ki+Σ+sik,k i Σ s i k,k i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan023,mu,1.sg.3.sg.fut.aff,ki-mu-sik-ke,ki-Σ-sik-ke,ki+Σ+sik+ke,k i Σ s i k k e,k i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan024,mu,1.sg.3.pl.fut.aff,ki-mu-sik,ki-Σ-sik,ki+Σ+sik,k i Σ s i k,k i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan025,mu,1.sg.3.pl.fut.aff,ki-mu-sik-ke,ki-Σ-sik-ke,ki+Σ+sik+ke,k i Σ s i k k e,k i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan026,mu,1.pl.excl.3.sg.fut.aff,kin-mu-sik,kin-Σ-sik,ki+n+Σ+sik,k i n Σ s i k,k i + n + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan027,mu,1.pl.excl.3.sg.fut.aff,kin-mu-sik-ke,kin-Σ-sik-ke,ki+n+Σ+sik+ke,k i n Σ s i k k e,k i + n + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan028,mu,1.pl.incl.3.sg.fut.aff,nin-mu-sik,nin-Σ-sik,ni+n+Σ+sik,n i n Σ s i k,n i + n + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan029,mu,1.pl.incl.3.sg.fut.aff,nin-mu-sik-ke,nin-Σ-sik-ke,ni+n+Σ+sik+ke,n i n Σ s i k k e,n i + n + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan030,mu,1.pl.excl.3.pl.fut.aff,kin-mu-sik,kin-Σ-sik,ki+n+Σ+sik,k i n Σ s i k,k i + n + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan031,mu,1.pl.excl.3.pl.fut.aff,kin-mu-sik-ke,kin-Σ-sik-ke,ki+n+Σ+sik+ke,k i n Σ s i k k e,k i + n + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan032,mu,1.pl.incl.3.pl.fut.aff,nin-mu-sik,nin-Σ-sik,ni+n+Σ+sik,n i n Σ s i k,n i + n + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan033,mu,1.pl.incl.3.pl.fut.aff,nin-mu-sik-ke,nin-Σ-sik-ke,ni+n+Σ+sik+ke,n i n Σ s i k k e,n i + n + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan034,che,2.sg.fut.aff,ni-che-sik,ni-Σ-sik,ni+Σ+sik,n i Σ s i k,n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan035,che,2.sg.fut.aff,ni-che-sik-ke,ni-Σ-sik-ke,ni+Σ+sik+ke,n i Σ s i k k e,n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan036,che,2.pl.fut.aff,nin-che-sik,nin-Σ-sik,ni+n+Σ+sik,n i n Σ s i k,n i + n + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan037,che,2.pl.fut.aff,nin-che-sik-ke,nin-Σ-sik-ke,ni+n+Σ+sik+ke,n i n Σ s i k k e,n i + n + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan038,mu,2.sg.1.sg.fut.aff,ni-ni-mu-sik,ni-ni-Σ-sik,ni+ni+Σ+sik,n i n i Σ s i k,n i + n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan039,mu,2.sg.1.sg.fut.aff,ni-ni-mu-sik-ke,ni-ni-Σ-sik-ke,ni+ni+Σ+sik+ke,n i n i Σ s i k k e,n i + n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan040,mu,2.sg.1.pl.excl.fut.aff,ni-ni-mu-sik,ni-ni-Σ-sik,ni+ni+Σ+sik,n i n i Σ s i k,n i + n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan041,mu,2.sg.1.pl.excl.fut.aff,ni-ni-mu-sik-ke,ni-ni-Σ-sik-ke,ni+ni+Σ+sik+ke,n i n i Σ s i k k e,n i + n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan042,mu,2.pl.1.sg.fut.aff,nin-ni-mu-sik,nin-ni-Σ-sik,ni+n+ni+Σ+sik,n i n n i Σ s i k,n i + n + n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan043,mu,2.pl.1.sg.fut.aff,nin-ni-mu-sik-ke,nin-ni-Σ-sik-ke,ni+n+ni+Σ+sik+ke,n i n n i Σ s i k k e,n i + n + n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan044,mu,2.pl.1.pl.excl.fut.aff,nin-ni-mu-sik,nin-ni-Σ-sik,ni+n+ni+Σ+sik,n i n n i Σ s i k,n i + n + n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan045,mu,2.pl.1.pl.excl.fut.aff,nin-ni-mu-sik-ke,nin-ni-Σ-sik-ke,ni+n+ni+Σ+sik+ke,n i n n i Σ s i k k e,n i + n + n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan046,mu,2.sg.3.sg.fut.aff,ni-mu-sik,ni-Σ-sik,ni+Σ+sik,n i Σ s i k,n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan047,mu,2.sg.3.sg.fut.aff,ni-mu-sik-ke,ni-Σ-sik-ke,ni+Σ+sik+ke,n i Σ s i k k e,n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan048,mu,2.sg.3.pl.fut.aff,ni-mu-sik,ni-Σ-sik,ni+Σ+sik,n i Σ s i k,n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan049,mu,2.sg.3.pl.fut.aff,ni-mu-sik-ke,ni-Σ-sik-ke,ni+Σ+sik+ke,n i Σ s i k k e,n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan050,mu,2.pl.3.sg.fut.aff,nin-mu-sik,nin-Σ-sik,ni+n+Σ+sik,n i n Σ s i k,n i + n + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan051,mu,2.pl.3.sg.fut.aff,nin-mu-sik-ke,nin-Σ-sik-ke,ni+n+Σ+sik+ke,n i n Σ s i k k e,n i + n + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan052,mu,2.pl.3.pl.fut.aff,nin-mu-sik,nin-Σ-sik,ni+n+Σ+sik,n i n Σ s i k,n i + n + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan053,mu,2.pl.3.pl.fut.aff,nin-mu-sik-ke,nin-Σ-sik-ke,ni+n+Σ+sik+ke,n i n Σ s i k k e,n i + n + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan054,che,3.sg.fut.aff,a-che-sik,a-Σ-sik,a+Σ+sik,a Σ s i k,a + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan055,che,3.sg.fut.aff,a-che-sik-ke,a-Σ-sik-ke,a+Σ+sik+ke,a Σ s i k k e,a + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan056,che,3.pl.fut.aff,an-che-sik,an-Σ-sik,a+n+Σ+sik,a n Σ s i k,a + n + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan057,che,3.pl.fut.aff,an-che-sik-ke,an-Σ-sik-ke,a+n+Σ+sik+ke,a n Σ s i k k e,a + n + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan058,mu,3.sg.1.sg.fut.aff,a-ni-mu-sik,a-ni-Σ-sik,a+ni+Σ+sik,a n i Σ s i k,a + n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan059,mu,3.sg.1.sg.fut.aff,a-ni-mu-sik-ke,a-ni-Σ-sik-ke,a+ni+Σ+sik+ke,a n i Σ s i k k e,a + n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan060,mu,3.sg.1.pl.excl.fut.aff,a-ni-mu-sik,a-ni-Σ-sik,a+ni+Σ+sik,a n i Σ s i k,a + n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan061,mu,3.sg.1.pl.excl.fut.aff,a-ni-mu-sik-ke,a-ni-Σ-sik-ke,a+ni+Σ+sik+ke,a n i Σ s i k k e,a + n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan062,mu,3.sg.1.pl.incl.fut.aff,a-ni-mu-sik,a-ni-Σ-sik,a+ni+Σ+sik,a n i Σ s i k,a + n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan063,mu,3.sg.1.pl.incl.fut.aff,a-ni-mu-sik-ke,a-ni-Σ-sik-ke,a+ni+Σ+sik+ke,a n i Σ s i k k e,a + n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan064,mu,3.pl.1.sg.fut.aff,an-ni-mu-sik,an-ni-Σ-sik,a+n+ni+Σ+sik,a n n i Σ s i k,a + n + n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan065,mu,3.pl.1.sg.fut.aff,an-ni-mu-sik-ke,an-ni-Σ-sik-ke,a+n+ni+Σ+sik+ke,a n n i Σ s i k k e,a + n + n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan066,mu,3.pl.1.pl.excl.fut.aff,an-ni-mu-sik,an-ni-Σ-sik,a+n+ni+Σ+sik,a n n i Σ s i k,a + n + n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan067,mu,3.pl.1.pl.excl.fut.aff,an-ni-mu-sik-ke,an-ni-Σ-sik-ke,a+n+ni+Σ+sik+ke,a n n i Σ s i k k e,a + n + n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan068,mu,3.pl.1.pl.incl.fut.aff,an-ni-mu-sik,an-ni-Σ-sik,a+n+ni+Σ+sik,a n n i Σ s i k,a + n + n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan069,mu,3.pl.1.pl.incl.fut.aff,an-ni-mu-sik-ke,an-ni-Σ-sik-ke,a+n+ni+Σ+sik+ke,a n n i Σ s i k k e,a + n + n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan070,mu,3.sg.2.sg.fut.aff,a-ni-mu-sik,a-ni-Σ-sik,a+ni+Σ+sik,a n i Σ s i k,a + n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan071,mu,3.sg.2.sg.fut.aff,a-ni-mu-sik-ke,a-ni-Σ-sik-ke,a+ni+Σ+sik+ke,a n i Σ s i k k e,a + n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan072,mu,3.sg.2.pl.fut.aff,a-ni-mu-sik,a-ni-Σ-sik,a+ni+Σ+sik,a n i Σ s i k,a + n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan073,mu,3.sg.2.pl.fut.aff,a-ni-mu-sik-ke,a-ni-Σ-sik-ke,a+ni+Σ+sik+ke,a n i Σ s i k k e,a + n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan074,mu,3.pl.2.sg.fut.aff,an-ni-mu-sik,an-ni-Σ-sik,a+n+ni+Σ+sik,a n n i Σ s i k,a + n + n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan075,mu,3.pl.2.sg.fut.aff,an-ni-mu-sik-ke,an-ni-Σ-sik-ke,a+n+ni+Σ+sik+ke,a n n i Σ s i k k e,a + n + n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan076,mu,3.pl.2.pl.fut.aff,an-ni-mu-sik,an-ni-Σ-sik,a+n+ni+Σ+sik,a n n i Σ s i k,a + n + n i + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan077,mu,3.pl.2.pl.fut.aff,an-ni-mu-sik-ke,an-ni-Σ-sik-ke,a+n+ni+Σ+sik+ke,a n n i Σ s i k k e,a + n + n i + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan078,mu,3.sg.3.sg.fut.aff,a-mu-sik,a-Σ-sik,a+Σ+sik,a Σ s i k,a + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan079,mu,3.sg.3.sg.fut.aff,a-mu-sik-ke,a-Σ-sik-ke,a+Σ+sik+ke,a Σ s i k k e,a + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan080,mu,3.sg.3.pl.fut.aff,a-mu-sik,a-Σ-sik,a+Σ+sik,a Σ s i k,a + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan081,mu,3.sg.3.pl.fut.aff,a-mu-sik-ke,a-Σ-sik-ke,a+Σ+sik+ke,a Σ s i k k e,a + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan082,mu,3.pl.3.sg.fut.aff,an-mu-sik,an-Σ-sik,a+n+Σ+sik,a n Σ s i k,a + n + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan083,mu,3.pl.3.sg.fut.aff,an-mu-sik-ke,an-Σ-sik-ke,a+n+Σ+sik+ke,a n Σ s i k k e,a + n + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan084,mu,3.pl.3.pl.fut.aff,an-mu-sik,an-Σ-sik,a+n+Σ+sik,a n Σ s i k,a + n + Σ + s i k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan085,mu,3.pl.3.pl.fut.aff,an-mu-sik-ke,an-Σ-sik-ke,a+n+Σ+sik+ke,a n Σ s i k k e,a + n + Σ + s i k + k e,unspecified,,certain_fut,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan086,che,1.sg.fut.neg,che-no-ning,Σ-no-ning,Σ+no+ni+ng,Σ n o n i ŋ,Σ + n o + n i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan087,che,1.pl.excl.fut.neg,che-no-ni-sing,Σ-no-ni-sing,Σ+no+ni+si+ng,Σ n o n i s i ŋ,Σ + n o + n i + s i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan088,che,1.pl.incl.fut.neg,che-no-ni-sing,Σ-no-ni-sing,Σ+no+ni+si+ng,Σ n o n i s i ŋ,Σ + n o + n i + s i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan089,mu,1.sg.2.sg.fut.neg,ni-mu-no-ning,ni-Σ-no-ning,ni+Σ+no+ni+ng,n i Σ n o n i ŋ,n i + Σ + n o + n i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan090,mu,1.sg.2.pl.fut.neg,ni-mu-no-ning,ni-Σ-no-ning,ni+Σ+no+ni+ng,n i Σ n o n i ŋ,n i + Σ + n o + n i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan091,mu,1.sg.3.pl.fut.neg,mu-no-ning,Σ-no-ning,Σ+no+ni+ng,Σ n o n i ŋ,Σ + n o + n i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan092,mu,1.pl.excl.2.sg.fut.neg,ni-mu-no-sing,ni-Σ-no-sing,ni+Σ+no+si+ng,n i Σ n o s i ŋ,n i + Σ + n o + s i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan093,mu,1.pl.excl.2.pl.fut.neg,ni-mu-no-sing,ni-Σ-no-sing,ni+Σ+no+si+ng,n i Σ n o s i ŋ,n i + Σ + n o + s i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan094,mu,1.sg.3.sg.fut.neg,mu-no-ning,Σ-no-ning,Σ+no+ni+ng,Σ n o n i ŋ,Σ + n o + n i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan095,mu,1.pl.excl.3.sg.fut.neg,mu-no-ni-sing,Σ-no-ni-sing,Σ+no+ni+si+ng,Σ n o n i s i ŋ,Σ + n o + n i + s i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan096,mu,1.pl.excl.3.sg.fut.neg,mu-no-sing,Σ-no-sing,Σ+no+si+ng,Σ n o s i ŋ,Σ + n o + s i + ŋ,informal,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan097,mu,1.pl.incl.3.sg.fut.neg,mu-no-ni-sing,Σ-no-ni-sing,Σ+no+ni+si+ng,Σ n o n i s i ŋ,Σ + n o + n i + s i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan098,mu,1.pl.excl.3.pl.fut.neg,mu-no-ni-sing,Σ-no-ni-sing,Σ+no+ni+si+ng,Σ n o n i s i ŋ,Σ + n o + n i + s i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan099,mu,1.pl.incl.3.pl.fut.neg,mu-no-ni-sing,Σ-no-ni-sing,Σ+no+ni+si+ng,Σ n o n i s i ŋ,Σ + n o + n i + s i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan100,che,2.sg.fut.neg,che-no-ni-che,Σ-no-ni-Σ,Σ+no+ni+che,Σ n o n i tʃ e,Σ + n o + n i + tʃ e,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan101,che,2.sg.fut.neg,che-no-ti-ni-che,Σ-no-ti-ni-Σ,Σ+no+ti+ni+che,Σ n o t i n i tʃ e,Σ + n o + t i + n i + tʃ e,dialect_var,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan102,che,2.pl.fut.neg,che-no-ni-cha-u,Σ-no-ni-cha-u,Σ+no+ni+cha+u,Σ n o n i tʃ a u,Σ + n o + n i + tʃ a + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan103,che,2.sg.1.sg.fut.neg,ni-mu-no-ni-che,ni-Σ-no-ni-Σ,ni+Σ+no+ni+che,n i Σ n o n i tʃ e,n i + Σ + n o + n i + tʃ e,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan104,che,2.sg.1.pl.excl.fut.neg,ni-mu-no-ni-che,ni-Σ-no-ni-Σ,ni+Σ+no+ni+che,n i Σ n o n i tʃ e,n i + Σ + n o + n i + tʃ e,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan105,mu,2.pl.1.sg.fut.neg,ni-mu-no-ni-cha-u,ni-Σ-no-ni-cha-u,ni+Σ+no+ni+cha+u,n i Σ n o n i tʃ a u,n i + Σ + n o + n i + tʃ a + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan106,mu,2.pl.1.sg.fut.neg,ni-mu-no-chu,ni-Σ-no-chu,ni+Σ+no+chu,n i Σ n o tʃ u,n i + Σ + n o + tʃ u,informal,fusion,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan107,mu,2.pl.1.pl.excl.fut.neg,ni-mu-no-cha-u,ni-Σ-no-cha-u,ni+Σ+no+cha+u,n i Σ n o tʃ a u,n i + Σ + n o + tʃ a + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan108,che,2.sg.3.sg.fut.neg,mu-no-ni-che,Σ-no-ni-Σ,Σ+no+ni+che,Σ n o n i tʃ e,Σ + n o + n i + tʃ e,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan109,che,2.sg.3.pl.fut.neg,mu-no-ni-che,Σ-no-ni-Σ,Σ+no+ni+che,Σ n o n i tʃ e,Σ + n o + n i + tʃ e,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan110,mu,2.pl.3.sg.fut.neg,mu-no-ni-cha-u,Σ-no-ni-cha-u,Σ+no+ni+cha+u,Σ n o n i tʃ a u,Σ + n o + n i + tʃ a + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan111,mu,2.pl.3.pl.fut.neg,mu-no-ni-cha-u,Σ-no-ni-cha-u,Σ+no+ni+cha+u,Σ n o n i tʃ a u,Σ + n o + n i + tʃ a + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan112,che,3.sg.fut.neg,che-no-ning,Σ-no-ning,Σ+no+ni+ng,Σ n o n i ŋ,Σ + n o + n i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan113,che,3.pl.fut.neg,che-no-ni-u,Σ-no-ni-u,Σ+no+ni+u,Σ n o n i u,Σ + n o + n i + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan114,mu,3.sg.1.sg.fut.neg,ni-mu-no-ning,ni-Σ-no-ning,ni+Σ+no+ni+ng,n i Σ n o n i ŋ,n i + Σ + n o + n i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan115,mu,3.sg.1.pl.excl.fut.neg,ni-mu-no-ning,ni-Σ-no-ning,ni+Σ+no+ni+ng,n i Σ n o n i ŋ,n i + Σ + n o + n i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan116,mu,3.sg.1.pl.incl.fut.neg,ni-mu-no-ning,ni-Σ-no-ning,ni+Σ+no+ni+ng,n i Σ n o n i ŋ,n i + Σ + n o + n i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan117,mu,3.pl.1.sg.fut.neg,ni-mu-no-ni-u,ni-Σ-no-ni-u,ni+Σ+no+ni+u,n i Σ n o n i u,n i + Σ + n o + n i + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan118,mu,3.pl.1.pl.excl.fut.neg,ni-mu-no-ni-u,ni-Σ-no-ni-u,ni+Σ+no+ni+u,n i Σ n o n i u,n i + Σ + n o + n i + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan119,mu,3.pl.1.pl.incl.fut.neg,ni-mu-no-ni-u,ni-Σ-no-ni-u,ni+Σ+no+ni+u,n i Σ n o n i u,n i + Σ + n o + n i + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan120,mu,3.sg.2.sg.fut.neg,ni-mu-no-ning,ni-Σ-no-ning,ni+Σ+no+ni+ng,n i Σ n o n i ŋ,n i + Σ + n o + n i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan121,mu,3.sg.2.pl.fut.neg,ni-mu-no-ning,ni-Σ-no-ning,ni+Σ+no+ni+ng,n i Σ n o n i ŋ,n i + Σ + n o + n i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan122,mu,3.pl.2.sg.fut.neg,ni-mu-no-ni-u,ni-Σ-no-ni-u,ni+Σ+no+ni+u,n i Σ n o n i u,n i + Σ + n o + n i + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan123,mu,3.pl.2.pl.fut.neg,ni-mu-no-ni-u,ni-Σ-no-ni-u,ni+Σ+no+ni+u,n i Σ n o n i u,n i + Σ + n o + n i + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan124,mu,3.sg.3.sg.fut.neg,mu-no-ning,Σ-no-ning,Σ+no+ni+ng,Σ n o n i ŋ,Σ + n o + n i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan125,mu,3.sg.3.pl.fut.neg,mu-no-ning,Σ-no-ning,Σ+no+ni+ng,Σ n o n i ŋ,Σ + n o + n i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan126,mu,3.pl.3.sg.fut.neg,mu-no-ni-u,Σ-no-ni-u,Σ+no+ni+u,Σ n o n i u,Σ + n o + n i + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan127,mu,3.pl.3.sg.fut.neg,mu-no-na-u,Σ-no-na-u,Σ+no+na+u,Σ n o n a u,Σ + n o + n a + u,informal,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan128,mu,3.pl.3.pl.fut.neg,mu-no-ni-u,Σ-no-ni-u,Σ+no+ni+u,Σ n o n i u,Σ + n o + n i + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan129,che,1.sg.nfut.aff,ki-che,ki-Σ,ki+Σ,k i Σ,k i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan130,che,1.pl.excl.nfut.aff,kin-che,kin-Σ,ki+n+Σ,k i n Σ,k i + n + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan131,che,1.pl.incl.nfut.aff,nin-che,nin-Σ,ni+n+Σ,n i n Σ,n i + n + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan132,mu,1.sg.2.sg.nfut.aff,ki-ni-mu,ki-ni-Σ,ki+ni+Σ,k i n i Σ,k i + n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan133,mu,1.sg.2.pl.nfut.aff,ki-ni-mu,ki-ni-Σ,ki+ni+Σ,k i n i Σ,k i + n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan134,mu,1.pl.excl.2.sg.nfut.aff,kin-ni-mu,kin-ni-Σ,ki+n+ni+Σ,k i n n i Σ,k i + n + n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan135,mu,1.pl.excl.2.pl.nfut.aff,kin-ni-mu,kin-ni-Σ,ki+n+ni+Σ,k i n n i Σ,k i + n + n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan136,mu,1.sg.3.sg.nfut.aff,ki-mu,ki-Σ,ki+Σ,k i Σ,k i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan137,mu,1.sg.3.pl.nfut.aff,ki-mu,ki-Σ,ki+Σ,k i Σ,k i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan138,mu,1.pl.excl.3.sg.nfut.aff,kin-mu,kin-Σ,ki+n+Σ,k i n Σ,k i + n + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan139,mu,1.pl.incl.3.sg.nfut.aff,nin-mu,nin-Σ,ni+n+Σ,n i n Σ,n i + n + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan140,mu,1.pl.excl.3.pl.nfut.aff,kin-mu,kin-Σ,ki+n+Σ,k i n Σ,k i + n + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan141,mu,1.pl.incl.3.pl.nfut.aff,nin-mu,nin-Σ,ni+n+Σ,n i n Σ,n i + n + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan142,che,2.sg.nfut.aff,ni-che,ni-Σ,ni+Σ,n i Σ,n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan143,che,2.pl.nfut.aff,nin-che,nin-Σ,ni+n+Σ,n i n Σ,n i + n + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan144,mu,2.sg.1.sg.nfut.aff,ni-ni-mu,ni-ni-Σ,ni+ni+Σ,n i n i Σ,n i + n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan145,mu,2.sg.1.pl.excl.nfut.aff,ni-ni-mu,ni-ni-Σ,ni+ni+Σ,n i n i Σ,n i + n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan146,mu,2.pl.1.sg.nfut.aff,nin-ni-mu,nin-ni-Σ,ni+n+ni+Σ,n i n n i Σ,n i + n + n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan147,mu,2.pl.1.pl.excl.nfut.aff,nin-ni-mu,nin-ni-Σ,ni+n+ni+Σ,n i n n i Σ,n i + n + n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan148,mu,2.sg.3.sg.nfut.aff,ni-mu,ni-Σ,ni+Σ,n i Σ,n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan149,mu,2.sg.3.pl.nfut.aff,ni-mu,ni-Σ,ni+Σ,n i Σ,n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan150,mu,2.pl.3.sg.nfut.aff,nin-mu,nin-Σ,ni+n+Σ,n i n Σ,n i + n + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan151,mu,2.pl.3.pl.nfut.aff,nin-mu,nin-Σ,ni+n+Σ,n i n Σ,n i + n + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan152,che,3.sg.nfut.aff,a-che,a-Σ,a+Σ,a Σ,a + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan153,che,3.pl.nfut.aff,an-che,an-Σ,a+n+Σ,a n Σ,a + n + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan154,mu,3.sg.1.sg.nfut.aff,a-ni-mu,a-ni-Σ,a+ni+Σ,a n i Σ,a + n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan155,mu,3.sg.1.pl.excl.nfut.aff,a-ni-mu,a-ni-Σ,a+ni+Σ,a n i Σ,a + n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan156,mu,3.sg.1.pl.incl.nfut.aff,a-ni-mu,a-ni-Σ,a+ni+Σ,a n i Σ,a + n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan157,mu,3.pl.1.sg.nfut.aff,an-ni-mu,an-ni-Σ,a+n+ni+Σ,a n n i Σ,a + n + n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan158,mu,3.pl.1.pl.excl.nfut.aff,an-ni-mu,an-ni-Σ,a+n+ni+Σ,a n n i Σ,a + n + n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan159,mu,3.pl.1.pl.incl.nfut.aff,an-ni-mu,an-ni-Σ,a+n+ni+Σ,a n n i Σ,a + n + n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan160,mu,3.sg.2.sg.nfut.aff,a-ni-mu,a-ni-Σ,a+ni+Σ,a n i Σ,a + n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan161,mu,3.sg.2.pl.nfut.aff,a-ni-mu,a-ni-Σ,a+ni+Σ,a n i Σ,a + n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan162,mu,3.pl.2.sg.nfut.aff,an-ni-mu,an-ni-Σ,a+n+ni+Σ,a n n i Σ,a + n + n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan163,mu,3.pl.2.pl.nfut.aff,an-ni-mu,an-ni-Σ,a+n+ni+Σ,a n n i Σ,a + n + n i + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan164,mu,3.sg.3.sg.nfut.aff,a-mu,a-Σ,a+Σ,a Σ,a + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan165,mu,3.sg.3.pl.nfut.aff,a-mu,a-Σ,a+Σ,a Σ,a + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan166,mu,3.pl.3.sg.nfut.aff,an-mu,an-Σ,a+n+Σ,a n Σ,a + n + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan167,mu,3.pl.3.pl.nfut.aff,an-mu,an-Σ,a+n+Σ,a n Σ,a + n + Σ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan168,che,1.sg.nfut.neg,che-mak-eng,Σ-mak-eng,Σ+mak+eng,Σ m a k e ŋ,Σ + m a k + e ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan169,che,1.pl.excl.nfut.neg,che-mak-sing,Σ-mak-sing,Σ+mak+si+ng,Σ m a k s i ŋ,Σ + m a k + s i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan170,che,1.pl.incl.nfut.neg,che-mak-sing,Σ-mak-sing,Σ+mak+si+ng,Σ m a k s i ŋ,Σ + m a k + s i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan171,mu,1.sg.2.sg.nfut.neg,ni-mu-mak-eng,ni-Σ-mak-eng,ni+Σ+mak+eng,n i Σ m a k e ŋ,n i + Σ + m a k + e ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan172,mu,1.sg.2.pl.nfut.neg,ni-mu-mak-eng,ni-Σ-mak-eng,ni+Σ+mak+eng,n i Σ m a k e ŋ,n i + Σ + m a k + e ŋ,formal,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan173,mu,1.sg.2.pl.nfut.neg,ni-mu-ma-eng,ni-Σ-ma-eng,ni+Σ+ma+eng,n i Σ m a e ŋ,n i + Σ + m a + e ŋ,informal,fusion,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan174,mu,1.pl.excl.2.sg.nfut.neg,ni-mu-mak-sing,ni-Σ-mak-sing,ni+Σ+mak+si+ng,n i Σ m a k s i ŋ,n i + Σ + m a k + s i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan175,mu,1.pl.excl.2.pl.nfut.neg,ni-mu-mak-sing,ni-Σ-mak-sing,ni+Σ+mak+si+ng,n i Σ m a k s i ŋ,n i + Σ + m a k + s i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan176,mu,1.sg.3.sg.nfut.neg,mu-mak-eng,Σ-mak-eng,Σ+mak+eng,Σ m a k e ŋ,Σ + m a k + e ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan177,mu,1.sg.3.pl.nfut.neg,mu-mak-eng,Σ-mak-eng,Σ+mak+eng,Σ m a k e ŋ,Σ + m a k + e ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan178,mu,1.pl.excl.3.sg.nfut.neg,mu-mak-sing,Σ-mak-sing,Σ+mak+si+ng,Σ m a k s i ŋ,Σ + m a k + s i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan179,mu,1.pl.incl.3.sg.nfut.neg,mu-mak-sing,Σ-mak-sing,Σ+mak+si+ng,Σ m a k s i ŋ,Σ + m a k + s i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan180,mu,1.pl.excl.3.pl.nfut.neg,mu-mak-sing,Σ-mak-sing,Σ+mak+si+ng,Σ m a k s i ŋ,Σ + m a k + s i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan181,mu,1.pl.incl.3.pl.nfut.neg,mu-mak-sing,Σ-mak-sing,Σ+mak+si+ng,Σ m a k s i ŋ,Σ + m a k + s i + ŋ,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan182,che,2.sg.nfut.neg,che-mak-che,Σ-mak-Σ,Σ+mak+che,Σ m a k tʃ e,Σ + m a k + tʃ e,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan183,che,2.pl.nfut.neg,che-mak-cha-u,Σ-mak-cha-u,Σ+mak+cha+u,Σ m a k tʃ a u,Σ + m a k + tʃ a + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan184,che,2.sg.1.sg.nfut.neg,ni-mu-mak-che,ni-Σ-mak-Σ,ni+Σ+mak+che,n i Σ m a k tʃ e,n i + Σ + m a k + tʃ e,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan185,che,2.sg.1.pl.excl.nfut.neg,ni-mu-mak-che,ni-Σ-mak-Σ,ni+Σ+mak+che,n i Σ m a k tʃ e,n i + Σ + m a k + tʃ e,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan186,mu,2.pl.1.sg.nfut.neg,ni-mu-mak-cha-u,ni-Σ-mak-cha-u,ni+Σ+mak+cha+u,n i Σ m a k tʃ a u,n i + Σ + m a k + tʃ a + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan187,mu,2.pl.1.pl.excl.nfut.neg,ni-mu-mak-cha-u,ni-Σ-mak-cha-u,ni+Σ+mak+cha+u,n i Σ m a k tʃ a u,n i + Σ + m a k + tʃ a + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan188,che,2.sg.3.sg.nfut.neg,mu-mak-che,Σ-mak-Σ,Σ+mak+che,Σ m a k tʃ e,Σ + m a k + tʃ e,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan189,che,2.sg.3.pl.nfut.neg,mu-mak-che,Σ-mak-Σ,Σ+mak+che,Σ m a k tʃ e,Σ + m a k + tʃ e,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan190,mu,2.pl.3.sg.nfut.neg,mu-mak-cha-u,Σ-mak-cha-u,Σ+mak+cha+u,Σ m a k tʃ a u,Σ + m a k + tʃ a + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan191,mu,2.pl.3.pl.nfut.neg,mu-mak-cha-u,Σ-mak-cha-u,Σ+mak+cha+u,Σ m a k tʃ a u,Σ + m a k + tʃ a + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan192,che,3.sg.nfut.neg,che-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan193,che,3.pl.nfut.neg,che-mak-u,Σ-mak-u,Σ+mak+u,Σ m a k u,Σ + m a k + u,formal,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan194,che,3.pl.nfut.neg,che-ma-u,Σ-ma-u,Σ+ma+u,Σ m a u,Σ + m a + u,informal,fusion,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan195,mu,3.sg.1.sg.nfut.neg,ni-mu-mak,ni-Σ-mak,ni+Σ+mak,n i Σ m a k,n i + Σ + m a k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan196,mu,3.sg.1.pl.excl.nfut.neg,ni-mu-mak,ni-Σ-mak,ni+Σ+mak,n i Σ m a k,n i + Σ + m a k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan197,mu,3.sg.1.pl.incl.nfut.neg,ni-mu-mak,ni-Σ-mak,ni+Σ+mak,n i Σ m a k,n i + Σ + m a k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan198,mu,3.pl.1.sg.nfut.neg,ni-mu-mak-u,ni-Σ-mak-u,ni+Σ+mak+u,n i Σ m a k u,n i + Σ + m a k + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan199,mu,3.pl.1.pl.excl.nfut.neg,ni-mu-mak-u,ni-Σ-mak-u,ni+Σ+mak+u,n i Σ m a k u,n i + Σ + m a k + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan200,mu,3.pl.1.pl.incl.nfut.neg,ni-mu-mak-u,ni-Σ-mak-u,ni+Σ+mak+u,n i Σ m a k u,n i + Σ + m a k + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan201,mu,3.sg.2.sg.nfut.neg,ni-mu-mak,ni-Σ-mak,ni+Σ+mak,n i Σ m a k,n i + Σ + m a k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan202,mu,3.sg.2.pl.nfut.neg,ni-mu-mak,ni-Σ-mak,ni+Σ+mak,n i Σ m a k,n i + Σ + m a k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan203,mu,3.pl.2.sg.nfut.neg,ni-mu-mak-u,ni-Σ-mak-u,ni+Σ+mak+u,n i Σ m a k u,n i + Σ + m a k + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan204,mu,3.pl.2.pl.nfut.neg,ni-mu-mak-u,ni-Σ-mak-u,ni+Σ+mak+u,n i Σ m a k u,n i + Σ + m a k + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan205,mu,3.sg.3.sg.nfut.neg,mu-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan206,mu,3.sg.3.pl.nfut.neg,mu-mak,Σ-mak,Σ+mak,Σ m a k,Σ + m a k,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan207,mu,3.pl.3.sg.nfut.neg,mu-mak-u,Σ-mak-u,Σ+mak+u,Σ m a k u,Σ + m a k + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
+komlitan208,mu,3.pl.3.pl.nfut.neg,mu-mak-u,Σ-mak-u,Σ+mak+u,Σ m a k u,Σ + m a k + u,unspecified,,,Kanshouwa2026LitanKom,nopage,komlitan
