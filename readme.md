@@ -26,10 +26,8 @@ For more details about the data, please consult the data\_sheet.md in the docs f
 
 * Transcription: Some \[a] are pronounced as \[ə] (schwa) as described by Kom 2009. However, since the phonology of the language (variety) is still not yet described, for the time being, both the vowels are phonemically represented by \[a]. This is subject to further phonological analyses.
 * Variation:
-
-a) informal (fused) vs. formal (unfused): e.g., ni-Σ-mak-eng vs ni-Σ-ma-eng (1SG-2PL.NFN)
-b) certain future vs. unspecified future: e.g., kin-ni-mu-sik vs kin-ni-mu-sik-ke (certain future) (1PLE-2PL.FA) 
-
+	* a) informal (fused) vs. formal (unfused): e.g., ni-Σ-mak-eng vs ni-Σ-ma-eng (1SG-2PL.NFN)
+	* b) certain future vs. unspecified future: e.g., kin-ni-mu-sik vs kin-ni-mu-sik-ke (certain future) (1PLE-2PL.FA) 
 
 
 ## References
