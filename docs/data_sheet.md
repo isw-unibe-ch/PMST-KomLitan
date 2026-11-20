@@ -35,8 +35,8 @@ For Litan, it is a version of the community orthography used by speakers.
 
 **How many instances are there in total?**
 
-* Number of inflected forms: 208
-* Number of unique inflected forms: 75
+* Number of inflected forms: 218
+* Number of unique inflected forms: 72
 * Number of unique scenarios (person, number, TAM, polarity combinations): 163
 * Number of inflected forms per paradigm and subparadigm:
 
@@ -46,12 +46,11 @@ For Litan, it is a version of the community orthography used by speakers.
 |fut.aff  |unspecified  |             |certain_fut  | 39|
 |fut.aff  |unspecified  |             |             | 39|
 |fut.neg  |dialect_var  |             |             |  1|
-|fut.neg  |informal     |fusion       |             |  1|
 |fut.neg  |informal     |             |             |  2|
 |fut.neg  |unspecified  |             |             | 39|
 |nfut.aff |unspecified  |             |             | 39|
 |nfut.neg |formal       |             |             |  2|
-|nfut.neg |informal     |fusion       |             |  2|
+|nfut.neg |informal     |fusion       |             | 13|
 |nfut.neg |unspecified  |             |             | 37|
 
 
